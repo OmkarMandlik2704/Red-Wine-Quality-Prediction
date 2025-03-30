@@ -93,9 +93,10 @@ Seaborn
 Matplotlib
 
 Scikit-learn
+
+
 Results
 
-The model achieved a certain accuracy (replace with actual accuracy from the script).
 
 Predictions can classify wine as Good or Bad based on its properties.
 Conclusion
